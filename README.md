@@ -7,6 +7,7 @@ Here are my solutions to the [Codember](https://codember.dev/) challenges. I'm u
 | Challenge | Solution |
 | --- | --- |
 | 1 | [Solution](/challenge01/) |
+| 1 | [Solution](/challenge02/) |
 
 
 ## Other Community Solutions
