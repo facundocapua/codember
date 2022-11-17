@@ -1,3 +1,5 @@
+const FIRST_ASCII_CODE = 65 //Ascii code for 'A'
+
 const getMessage = () => {
   return fetch('https://codember.dev/encrypted.txt')
     .then(res => res.text()) 
@@ -9,7 +11,7 @@ const decodeWord = (word) => {
   let auxChar = ''
   digits.forEach(digit => {
     auxChar = auxChar + digit 
-    if(parseInt(auxChar) > 60){
+    if(parseInt(auxChar) >= FIRST_ASCII_CODE){
       chars.push(auxChar)
       auxChar = ''
     }
