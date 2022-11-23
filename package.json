@@ -5,7 +5,9 @@
   "type":"module",
   "scripts": {
     "challenge01": "node challenge01/solution.js",
-    "challenge02": "node challenge02/solution.js"
+    "challenge02": "node challenge02/solution.js",
+    "challenge03": "node challenge03/solution.js",
+    "challenge04": "node challenge04/solution.js"
   },
   "repository": {
     "type": "git",

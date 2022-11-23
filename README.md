@@ -8,6 +8,8 @@ Here are my solutions to the [Codember](https://codember.dev/) challenges. I'm u
 | --- | --- |
 | 1 | [Solution](/challenge01/) |
 | 2 | [Solution](/challenge02/) |
+| 3 | [Solution](/challenge03/) |
+| 4 | [Solution](/challenge04/) |
 
 
 ## Other Community Solutions
